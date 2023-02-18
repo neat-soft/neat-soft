@@ -82,5 +82,5 @@ Here are some ideas to get you started:
   </p>
   <p>
 <a href="https://github.com/neat-soft/neat-soft" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AkioAlex0817&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="AkioAlex0817's GitHub Stats" height="220px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=neat-soft&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="neat-soft" height="220px"/>
   </a></p>
