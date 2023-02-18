@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### ⚡ I am coiding from home mainly about solidit and web application development. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
+#### ⚡ I am coiding from home mainly about web application development  solidity. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.
 
 
 <div id="header" align="center">
