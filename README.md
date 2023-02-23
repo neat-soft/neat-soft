@@ -41,6 +41,10 @@ Here are some ideas to get you started:
     <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer"> <img
             src="https://docs.soliditylang.org/en/v0.8.10/_static/logo.svg" alt="solidity" width="40"
             height="40"/> </a>
+    <a
+        href="https://go.dev" target="_blank" rel="noreferrer"> <img
+        src="https://www.vectorlogo.zone/util/preview.html?image=/logos/golang/golang-ar21.svg" alt="tailwind" width="40" height="40"/>
+    </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="40" height="40"/> </a>
@@ -83,6 +87,7 @@ Here are some ideas to get you started:
         href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
+    
   </p>
   <p>
     <a href="https://github.com/neat-soft/neat-soft" >
