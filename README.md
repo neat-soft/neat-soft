@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 ### My Expertise
 
 <p align="left">
+  <a href="https://erpnext.com/" target="_blank" rel="noreferrer"> <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTARTtO2cudFCDkWUPGdIFDnnKQyM92OjntXEZzXu1XRkUOYNoa0gUkmE0N_zLwsdtdqig&usqp=CAU" alt="ERPNext" width="40"
+            height="40"/> </a>
     <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img
             src="https://avatars.githubusercontent.com/u/35608259?s=200&v=4" alt="solana" width="40"
             height="40"/> </a>
